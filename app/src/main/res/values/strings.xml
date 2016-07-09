@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FileExplorer</string>
+    <string name="et_search_hint">请输入您的搜索内容</string>
+    <string name="path_prefix">内部存储空间></string>
+</resources>
